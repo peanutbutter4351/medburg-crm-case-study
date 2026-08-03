@@ -108,7 +108,7 @@ The CRM supports multiple user roles, each with dedicated workflows and permissi
 ## Dashboard Overview
 
 <p align="center">
-  <img src="images/dashboard.png" width="95%">
+  <img src="images/dashboard.png" width="95%" style="border-radius: 15px;>
 </p>
 ---
 
