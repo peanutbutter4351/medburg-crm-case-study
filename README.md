@@ -1,1 +1,23 @@
+# Medburg CRM
 
+### Enterprise Pharmaceutical CRM for Sales, ROI Tracking & Commission Management
+
+> A production-grade Pharmaceutical Customer Relationship Management (CRM) platform built from scratch to streamline doctor engagement, sales operations, investment tracking, commission management, business analytics, and enterprise reporting.
+
+---
+
+<p align="center">
+
+[Hero Image goes here]
+
+</p>
+
+---
+
+## Engineering Case Study
+
+This repository showcases the complete engineering journey behind **Medburg CRM** — from understanding the business problem to designing the architecture, implementing financial workflows, deploying to a production VPS, and maintaining multiple production releases.
+
+> **Looking for the production source code?**
+>
+> **Production Repository:** https://github.com/peanutbutter4351/medburg-crm
