@@ -1,5 +1,10 @@
 # Medburg CRM
-
+![Django](https://img.shields.io/badge/Django-4.2-success?logo=django)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?logo=postgresql)
+![Python](https://img.shields.io/badge/Python-3.12-yellow?logo=python)
+![Nginx](https://img.shields.io/badge/Nginx-Reverse%20Proxy-green?logo=nginx)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-Application%20Server-brightgreen)
+![Status](https://img.shields.io/badge/Status-Production-success)
 ### Enterprise Pharmaceutical CRM for Sales, ROI Tracking & Commission Management
 
 > A production-grade Pharmaceutical Customer Relationship Management (CRM) platform built from scratch to streamline doctor engagement, sales operations, investment tracking, commission management, business analytics, and enterprise reporting.
