@@ -79,6 +79,39 @@ Rather than replacing business processes, the CRM was designed to model and auto
 
 ---
 
+# Users
+
+The CRM supports multiple user roles, each with dedicated workflows and permissions.
+
+| Role | Responsibilities |
+|------|------------------|
+| **Administrator** | Manage doctors, medicines, representatives, campaigns, investments, reports, settlements, dashboards, and overall business operations. |
+| **Sales Representative** | Record sales, manage assigned doctors, monitor active investments, and submit daily field activities. |
+| **Management** | Monitor company-wide KPIs, revenue trends, representative performance, ROI tracking, and business reports. |
+
+---
+
+# Core Modules
+
+| Module | Purpose |
+|---------|---------|
+| Dashboard | Company-wide KPIs and business analytics |
+| Doctor Management | Manage prepaid and postpaid doctors |
+| Medicine Management | Centralized medicine catalog |
+| Sales Entry | Record prepaid and postpaid sales |
+| Investment Lifecycle | Track ROI-based prepaid investments |
+| Campaign Management | Configure postpaid commission campaigns |
+| Settlement Ledger | Financial reconciliation and payment tracking |
+| Reports | Interactive reports with Excel exports |
+| User Management | Role-based authentication and authorization |
+
+## Dashboard Overview
+
+<p align="center">
+  <img src="images/dashboard.png" width="95%">
+</p>
+---
+
 ## Engineering Journey
 
 This repository showcases the complete engineering journey behind **Medburg CRM** — from understanding the business problem to designing the architecture, implementing financial workflows, deploying to a production VPS, and maintaining multiple production releases.
