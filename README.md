@@ -69,6 +69,16 @@ As the business grows, these disconnected processes become increasingly difficul
 
 ---
 
+# The Solution
+
+Medburg CRM was designed as a centralized platform that digitizes pharmaceutical sales operations while preserving financial accuracy and operational transparency.
+
+The system provides dedicated workflows for both prepaid investment tracking and postpaid commission campaigns, enabling representatives and administrators to manage doctor relationships, sales entries, settlements, and business analytics through a unified interface.
+
+Rather than replacing business processes, the CRM was designed to model and automate the existing operational workflow while maintaining complete auditability of financial records.
+
+---
+
 ## Engineering Journey
 
 This repository showcases the complete engineering journey behind **Medburg CRM** — from understanding the business problem to designing the architecture, implementing financial workflows, deploying to a production VPS, and maintaining multiple production releases.
