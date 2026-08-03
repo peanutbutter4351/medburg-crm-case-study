@@ -18,6 +18,23 @@
 <img src="images/hero.png" width="100%">
 </p>
 
+## Project at a Glance
+
+| | |
+|------|------|
+| **Industry** | Pharmaceutical |
+| **Architecture** | Full Stack Web Application |
+| **Backend** | Django |
+| **Database** | PostgreSQL |
+| **Deployment** | Ubuntu VPS |
+| **Application Server** | Gunicorn |
+| **Reverse Proxy** | Nginx |
+| **Static File Pipeline** | WhiteNoise |
+| **Authentication** | Role-Based |
+| **Reporting** | Excel Export |
+| **Current Release** | v1.2.3 |
+| **Production Status** | Live Deployment |
+
 </p>
 
 ---
