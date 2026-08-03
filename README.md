@@ -8,7 +8,9 @@
 
 <p align="center">
 
-[Hero Image goes here]
+<p align="center">
+<img src="images/hero.png" width="100%">
+</p>
 
 </p>
 
