@@ -52,6 +52,23 @@
 
 ---
 
+# The Business Problem
+
+Many small and mid-sized pharmaceutical distributors still rely on spreadsheets, paper records, and disconnected software to manage their day-to-day sales operations.
+
+This often results in:
+
+- Difficulty tracking doctor relationships and product promotions
+- Manual ROI calculations for prepaid investments
+- Complex commission calculations for postpaid campaigns
+- Lack of centralized sales reporting
+- Limited business visibility for management
+- Time-consuming Excel-based workflows prone to human error
+
+As the business grows, these disconnected processes become increasingly difficult to maintain, making financial reconciliation and performance tracking both slow and error-prone.
+
+---
+
 ## Engineering Journey
 
 This repository showcases the complete engineering journey behind **Medburg CRM** — from understanding the business problem to designing the architecture, implementing financial workflows, deploying to a production VPS, and maintaining multiple production releases.
