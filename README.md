@@ -106,39 +106,39 @@ The CRM supports multiple user roles, each with dedicated workflows and permissi
 | User Management | Role-based authentication and authorization |
 
 ## Dashboard Overview
+Real-time business analytics showing revenue trends, investment activity, doctor performance, and sales insights for administrators.
 
 <p align="center">
   <img src="images/01-dashboard-overview.png" width="95%" style="border-radius: 15px">
 </p>
-Real-time business analytics showing revenue trends, investment activity, doctor performance, and sales insights for administrators.
 
 ## ROI Tracking
+Snapshot-based prepaid investment tracking with frozen pricing, recovery monitoring, and Excel-ready reporting.
 
 <p align="center">
   <img src="images/02-prepaid-roi-tracking.png" width="95%" style="border-radius: 15px">
 </p>
-Snapshot-based prepaid investment tracking with frozen pricing, recovery monitoring, and Excel-ready reporting.
 
 ## Campaign Monitor
+Commission lifecycle management for postpaid campaigns, including outstanding balances and payment workflows.
 
 <p align="center">
   <img src="images/03-postpaid-campaign-monitor.png" width="95%" style="border-radius: 15px">
 </p>
-Commission lifecycle management for postpaid campaigns, including outstanding balances and payment workflows.
 
 ## Settlement Ledger
+Centralized financial reconciliation system for campaign settlements, payment history, and outstanding commission tracking.
 
 <p align="center">
   <img src="images/04-settlement-ledger.png" width="95%" style="border-radius: 15px">
 </p>
-Centralized financial reconciliation system for campaign settlements, payment history, and outstanding commission tracking.
 
 ## Admin Console
+Customized Django administration interface for secure management of users, medicines, campaigns, investments, and operational data.
 
 <p align="center">
   <img src="images/05-admin-console.png" width="95%" style="border-radius: 15px">
 </p>
-Customized Django administration interface for secure management of users, medicines, campaigns, investments, and operational data.
 
 ---
 
