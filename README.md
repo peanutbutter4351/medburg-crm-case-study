@@ -108,7 +108,35 @@ The CRM supports multiple user roles, each with dedicated workflows and permissi
 ## Dashboard Overview
 
 <p align="center">
-  <img src="images/dashboard.png" width="95%" style="border-radius: 15px">
+  <img src="images/01-dashboard-overview.png" width="95%" style="border-radius: 15px">
+</p>
+---
+
+## ROI Tracking
+
+<p align="center">
+  <img src="images/02-prepaid-roi-tracking.png" width="95%" style="border-radius: 15px">
+</p>
+---
+
+## Campaign Monitor
+
+<p align="center">
+  <img src="images/03-postpaid-campaign-monitor.png" width="95%" style="border-radius: 15px">
+</p>
+---
+
+## Settlement Ledger
+
+<p align="center">
+  <img src="images/04-settlement-ledger.png" width="95%" style="border-radius: 15px">
+</p>
+---
+
+## Admin Console
+
+<p align="center">
+  <img src="images/05-admin-console.png" width="95%" style="border-radius: 15px">
 </p>
 ---
 
