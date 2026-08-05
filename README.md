@@ -18,28 +18,19 @@
 
 ---
 
-## Project Snapshot
+# Project Snapshot
 
 | Attribute | Value |
 |------|------|
 | **Industry** | Pharmaceutical |
+| **Project Type** | Enterprise CRM |
 | **Architecture** | Full Stack Web Application |
-| **Backend** | Django |
-| **Database** | PostgreSQL |
-| **Deployment** | Ubuntu VPS |
-| **Application Server** | Gunicorn |
-| **Reverse Proxy** | Nginx |
-| **Static File Pipeline** | WhiteNoise |
-| **Authentication** | Role-Based |
-| **Reporting** | Excel Export |
 | **Current Release** | v1.3.0 |
 | **Production Status** | Live Deployment |
 
-</p>
-
 ---
 
-## Highlights
+# Highlights
 
 - Production-deployed enterprise CRM
 - Snapshot-based ROI accounting system
@@ -49,6 +40,35 @@
 - Role-based authentication
 - Semantic versioning with release candidates
 - Production VPS deployment using Gunicorn & Nginx
+
+---
+
+# Technology Stack
+
+| Category | Technologies |
+|----------|--------------|
+| **Backend** | Python 3.12, Django 4.2 |
+| **Database** | PostgreSQL |
+| **Frontend** | HTML, CSS, JavaScript |
+| **Charts & Analytics** | Chart.js |
+| **Application Server** | Gunicorn |
+| **Reverse Proxy** | Nginx |
+| **Static Files** | WhiteNoise |
+| **Hosting** | Ubuntu VPS |
+| **Version Control** | Git & GitHub |
+
+---
+
+# Project Statistics
+
+- 8+ Business Modules
+- 2 Financial Workflows (Prepaid & Postpaid)
+- 15 Database Migrations
+- Production VPS Deployment
+- Multiple Stable Releases & Release Candidates
+- Semantic Versioning Workflow
+- Snapshot-Based Financial Accounting
+- Enterprise Role-Based Authentication
 
 ---
 
@@ -79,6 +99,16 @@ Rather than replacing business processes, the CRM was designed to model and auto
 
 ---
 
+# Engineering Highlights
+
+- Designed a snapshot-based ROI accounting system that preserves historical financial accuracy even after medicine prices change.
+- Built independent prepaid and postpaid financial engines to support different pharmaceutical sales models.
+- Implemented append-only financial workflows to improve auditability and prevent historical data corruption.
+- Designed production deployment using Gunicorn, Nginx, PostgreSQL, WhiteNoise, and Ubuntu VPS.
+- Maintained release candidates and production releases using Git tags and semantic versioning.
+
+---
+
 # Users
 
 The CRM supports multiple user roles, each with dedicated workflows and permissions.
@@ -105,49 +135,64 @@ The CRM supports multiple user roles, each with dedicated workflows and permissi
 | Reports | Interactive reports with Excel exports |
 | User Management | Role-based authentication and authorization |
 
-## Dashboard Overview
+---
+
+# Dashboard Overview
+
 Real-time business analytics showing revenue trends, investment activity, doctor performance, and sales insights for administrators.
 
 <p align="center">
-  <img src="images/01-dashboard-overview.png" width="95%" style="border-radius: 15px">
-</p>
-
-## ROI Tracking
-Snapshot-based prepaid investment tracking with frozen pricing, recovery monitoring, and Excel-ready reporting.
-
-<p align="center">
-  <img src="images/02-prepaid-roi-tracking.png" width="95%" style="border-radius: 15px">
-</p>
-
-## Campaign Monitor
-Commission lifecycle management for postpaid campaigns, including outstanding balances and payment workflows.
-
-<p align="center">
-  <img src="images/03-postpaid-campaign-monitor.png" width="95%" style="border-radius: 15px">
-</p>
-
-## Settlement Ledger
-Centralized financial reconciliation system for campaign settlements, payment history, and outstanding commission tracking.
-
-<p align="center">
-  <img src="images/04-settlement-ledger.png" width="95%" style="border-radius: 15px">
-</p>
-
-## Admin Console
-Customized Django administration interface for secure management of users, medicines, campaigns, investments, and operational data.
-
-<p align="center">
-  <img src="images/05-admin-console.png" width="95%" style="border-radius: 15px">
+  <img src="images/01-dashboard-overview.png" width="95%">
 </p>
 
 ---
 
-## Engineering Journey
+# ROI Tracking
 
-This repository showcases the complete engineering journey behind **Medburg CRM** — from understanding the business problem to designing the architecture, implementing financial workflows, deploying to a production VPS, and maintaining multiple production releases.
+Snapshot-based prepaid investment tracking with frozen pricing, recovery monitoring, and Excel-ready reporting.
+
+<p align="center">
+  <img src="images/02-prepaid-roi-tracking.png" width="95%">
+</p>
+
+---
+
+# Campaign Monitor
+
+Commission lifecycle management for postpaid campaigns, including outstanding balances and payment workflows.
+
+<p align="center">
+  <img src="images/03-postpaid-campaign-monitor.png" width="95%">
+</p>
+
+---
+
+# Settlement Ledger
+
+Centralized financial reconciliation system for campaign settlements, payment history, and outstanding commission tracking.
+
+<p align="center">
+  <img src="images/04-settlement-ledger.png" width="95%">
+</p>
+
+---
+
+# Admin Console
+
+Customized Django administration interface for secure management of users, medicines, campaigns, investments, and operational data.
+
+<p align="center">
+  <img src="images/05-admin-console.png" width="95%">
+</p>
+
+---
+
+# Engineering Journey
+
+This repository showcases the complete engineering journey behind **Medburg CRM**—from understanding the business problem to designing the architecture, implementing financial workflows, deploying to a production VPS, and maintaining multiple production releases.
 
 > **Looking for the production source code?**
->
-> **Production Repository**
->
-> https://github.com/peanutbutter4351/medburg-crm
+
+### Production Repository
+
+https://github.com/peanutbutter4351/medburg-crm
