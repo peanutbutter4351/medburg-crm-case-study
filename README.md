@@ -196,3 +196,7 @@ This repository showcases the complete engineering journey behind **Medburg CRM*
 ### Production Repository
 
 https://github.com/peanutbutter4351/medburg-crm
+
+---
+
+⭐ If you found this project interesting, feel free to explore the production repository, release history, and engineering decisions behind Medburg CRM.
